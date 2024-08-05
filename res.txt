@@ -1,0 +1,39 @@
+Liste des bases de données disponibles:
+['admin', 'config', 'local']
+
+Liste des collections dans la base de données 'sample':
+[]
+
+Un document de la collection 'books':
+None
+
+Nombre de documents dans la collection 'books':
+0
+
+Livres avec plus de 400 pages: 0
+Livres publiés avec plus de 400 pages: 0
+
+Nombre de livres ayant le mot-clé 'Android' dans leur description: 0
+
+Grouper les documents par catégories :
+[]
+
+Nombre de livres contenant certains langages dans leur description longue : 0
+
+Statistiques sur les pages par catégorie :
+[]
+
+Livres publiés après 2009 :
+[]
+
+Créer des attributs pour chaque auteur :
+[]
+
+Nombre de publications par auteur :
+[]
+
+Distribution du nombre d'auteurs :
+[]
+
+Occurrence de chaque auteur selon son index :
+[]
